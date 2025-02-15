@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HABIBA ART GALLERY</title>
+</head>
+<body>
+    <h1>HABIBA ART GALLERY</h1>
+    <img src="images(19).jpeg" alt="Artwork" width="300">
+    <br>
+    <a href="https://www.instagram.com/biba_.44?igsh=MnN0NjFnMHo2bW5k" target="_blank">
+        Artist’s Instagram Account
+    </a>
+</body>
+</html>
